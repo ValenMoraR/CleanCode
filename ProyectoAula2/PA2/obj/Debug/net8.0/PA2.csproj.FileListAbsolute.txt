@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Escritorio\PA2\bin\Debug\net8.0\PA2.exe
+C:\Users\Usuario\OneDrive\Escritorio\PA2\bin\Debug\net8.0\PA2.deps.json
+C:\Users\Usuario\OneDrive\Escritorio\PA2\bin\Debug\net8.0\PA2.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Escritorio\PA2\bin\Debug\net8.0\PA2.dll
+C:\Users\Usuario\OneDrive\Escritorio\PA2\bin\Debug\net8.0\PA2.pdb
+C:\Users\Usuario\OneDrive\Escritorio\PA2\obj\Debug\net8.0\PA2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Escritorio\PA2\obj\Debug\net8.0\PA2.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\PA2\obj\Debug\net8.0\PA2.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Escritorio\PA2\obj\Debug\net8.0\PA2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\PA2\obj\Debug\net8.0\PA2.dll
+C:\Users\Usuario\OneDrive\Escritorio\PA2\obj\Debug\net8.0\refint\PA2.dll
+C:\Users\Usuario\OneDrive\Escritorio\PA2\obj\Debug\net8.0\PA2.pdb
+C:\Users\Usuario\OneDrive\Escritorio\PA2\obj\Debug\net8.0\PA2.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Escritorio\PA2\obj\Debug\net8.0\ref\PA2.dll
